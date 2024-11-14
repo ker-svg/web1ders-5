@@ -41,7 +41,7 @@ kalkan:500,
 
 var canavar = ref({
 can:95,
-saldırıGücü:300,
+saldırıGücü:200,
 kalkan:600,
 });
 
